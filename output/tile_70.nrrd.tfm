@@ -1,0 +1,5 @@
+#Insight Transform File V1.0
+#Transform 0
+Transform: TranslationTransform_double_3_3
+Parameters: 0.23557151854038239 1.5862239599227905 -0.5543898344039917
+FixedParameters: 
