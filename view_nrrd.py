@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Read the NRRD file
-image = sitk.ReadImage('output/montage.nrrd')
+image = sitk.ReadImage('output/cmu_run2_montage.nrrd')
 
 # Convert to numpy array
 array = sitk.GetArrayFromImage(image)
